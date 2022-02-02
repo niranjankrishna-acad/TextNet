@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+model.weights
+modelConv.weights
+news.csv
+data/
 # C extensions
 *.so
 
